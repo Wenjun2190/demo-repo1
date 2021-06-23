@@ -1,0 +1,3 @@
+# My first repo 
+
+First repo haha testing the waters and my first .md file. OMG I am so happy I love coding stuff :)
